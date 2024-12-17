@@ -1,16 +1,20 @@
-# - [Installing or activating wsl or ubuntu](https://www.freecodecamp.org/news/how-to-install-wsl2-windows-subsystem-for-linux-2-on-windows-10/) 
+
+This repository is just to set wsl in a PC and info to start practicing in linux command line interface 'terminal or wsl or ubuntu'
 
 
-# - Online terminal 
-[1](https://www.terminaltemple.com/)
-
-[2](https://copy.sh/v86/?profile=linux26&ref=itsfoss.com)
-
-[3 Best Online Linux Terminals and Online Bash Editors](https://github.com/user-attachments/assets/6753a5a4-cab6-4541-8475-e2850116daed)
+#### 1 [Installing or activating wsl or ubuntu](https://www.freecodecamp.org/news/how-to-install-wsl2-windows-subsystem-for-linux-2-on-windows-10/) 
 
 
-More practice on Linux/Unix/wsl?
-Unix/Linux
+#### 2 Online terminal 
+[Terminal 1](https://www.terminaltemple.com/)
+
+[Terminal 2](https://copy.sh/v86/?profile=linux26&ref=itsfoss.com)
+
+[More links on terminal](https://github.com/user-attachments/assets/6753a5a4-cab6-4541-8475-e2850116daed)
+
+#### 3 [Data](https://github.com/abu85/bioinformatics_Linux_WSL-_Unix_command_line_interface/blob/main/shell_data.zip)
+
+#### 4 More practice materials on Linux/Unix/wsl?
 - [**Data Carpentry** datacarpentry/shell-genomics](https://github.com/datacarpentry/shell-genomics) | [website](https://datacarpentry.org/shell-genomics)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Intro-to-shell-flipped](https://github.com/hbctraining/Intro-to-shell-flipped) | [website](https://hbctraining.github.io/Intro-to-shell-flipped/)
 - [**Ted Laderas** laderast/bash_for_bioinformatics](https://github.com/laderast/bash_for_bioinformatics) | [website](https://laderast.github.io/bash_for_bioinformatics/)
