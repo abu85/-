@@ -3,7 +3,9 @@
 
 # - Online terminal 
 [1](https://www.terminaltemple.com/)
+
 [2](https://copy.sh/v86/?profile=linux26&ref=itsfoss.com)
+
 [3 Best Online Linux Terminals and Online Bash Editors](https://github.com/user-attachments/assets/6753a5a4-cab6-4541-8475-e2850116daed)
 
 
